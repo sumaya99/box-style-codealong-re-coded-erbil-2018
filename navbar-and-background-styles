@@ -51,7 +51,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endC
 background: rgb(229, 229, 229); /* Old browsers */
 background: -moz-linear-gradient(
   top,
-  rgba(229, 229, 229, 1) 0%,
+  rgba(2, 229, 223, 1) 0%,
   rgba(255, 255, 255, 1) 99%
 ); /* FF3.6+ */
 background: -webkit-gradient(
