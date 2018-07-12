@@ -24,13 +24,7 @@ background: -webkit-linear-gradient(
   #ffffff 68%,
   #dddddd 100%
 ); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(
-  top,
-  #efefef 0%,
-  #ffffff 24%,
-  #ffffff 68%,
-  #dddddd 100%
-); /* Opera 11.10+ */
+
 background: -ms-linear-gradient(
   top,
   #efefef 0%,
@@ -131,9 +125,9 @@ background: -ms-linear-gradient(
   rgba(0, 0, 0, 1) 0%,
   rgba(71, 71, 71, 1) 28%,
   rgba(81, 81, 81, 1) 35%,
-  rgba(71, 71, 71, 1) 72%,
+  rgba(61, 71, 71, 1) 72%,
   rgba(43, 43, 43, 1) 87%,
-  rgba(28, 28, 28, 1) 91%,
+  rgba(255, 128, 8, 1) 91%,
   rgba(0, 0, 0, 1) 100%
 ); /* IE10+ */
 background: linear-gradient(
